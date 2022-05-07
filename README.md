@@ -5,7 +5,7 @@
 - 🍻 Junior at 🖋 [YNU](https://www.YNU.edu.cn), _BSc in Computer Science_
 - ⚡ Java / Python.
 - 🖋 Writer at [CSDN](https://blog.csdn.net/lwcsjzz)
-- ✍️ [Blogger](https://lwcsjzz.github.io/)
+- ✍️ [Blogger](https://Liu-Vince.github.io/)
 - 🏃 Table Tennis / swimming / skiing 
 - 🥋 jogging
 - ♟ Teamfight Tactics
