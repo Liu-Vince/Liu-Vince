@@ -7,7 +7,7 @@
 - 🖋 Writer at [CSDN](https://blog.csdn.net/lwcsjzz)
 - ✍️ [Blogger](https://Liu-Vince.github.io/)
 - 🏃 Table Tennis / swimming / skiing 
-- 🥋 jogging
+- 🥋 Jogging
 - ♟ Teamfight Tactics
 
 <!--
