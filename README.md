@@ -2,7 +2,7 @@
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=Liu-Vince&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
 
-- 🍻 Junior at 🖋 [YNU](https://www.YNU.edu.cn), _BSc in Computer Science and Technology_
+- 🍻 Junior at 🖋 [YNU](https://www.YNU.edu.cn), _BEng in Computer Science and Technology_
 - ⚡ Java / Python.
 - 🖋 Writer at [Stack Overflow](https://stackoverflow.com/users/13308895/vince)
 - ✍️ [Blogger](https://blog.csdn.net/lwcsjzz)
