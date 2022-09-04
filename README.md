@@ -4,7 +4,7 @@
 
 - 🌱 Senior at 🖋 [YNU](https://www.YNU.edu.cn), _BEng in Computer Science and Technology_
 - 🔭 Java / Python.
-- 💬 Ask me about [Stack Overflow](https://stackoverflow.com/users/13308895/vince)
+- 💬 Ask me questions at [Stack Overflow](https://stackoverflow.com/users/13308895/vince)
 - ✍️ [Blogger](https://blog.csdn.net/lwcsjzz)
 - 🏃 Swimming / Table Tennis / Skiing 
 - 😄 Teamfight Tactics
