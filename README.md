@@ -6,7 +6,7 @@
 - 🔭 Java / Python.
 - 💬 Ask me questions at [Stack Overflow](https://stackoverflow.com/users/13308895/vince)
 - ✍️ [Blogger](https://blog.csdn.net/lwcsjzz)
-- 🏃 Swimming / Table Tennis / Skiing 
+- 🏃 Swimming / Snowboarding / Table Tennis 
 - 😄 Teamfight Tactics
 
 <!--
