@@ -2,12 +2,11 @@
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=Liu-Vince&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
 
-- 🌱 Senior at 🖋 [YNU](https://www.YNU.edu.cn), _BEng in Computer Science and Technology_
-- 🔭 Java / Python.
+- 💼 Working in Chengdu as a programmer in the fintech sector, graduated from 🖋 [YNU](https://english.ynu.edu.cn) with a Bachelor's degree in Computer Science and Technology.
+- 🧐 Java / Python.
 - 💬 Ask me questions at [Stack Overflow](https://stackoverflow.com/users/13308895/vince)
 - ✍️ [Blogger](https://blog.csdn.net/lwcsjzz)
-- 🏃 Swimming / Snowboarding / Fishing 
-- 😄 Teamfight Tactics
+- 🏊 Swimming / Snowboarding / Fishing 
 
 <!--
 [![GitHub](https://img.shields.io/badge/dynamic/json?logo=github&label=GitHub&labelColor=495867&color=495867&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3Dhayschan&style=flat-square)](https://github.com/lwcsjzz)
