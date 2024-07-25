@@ -1,11 +1,10 @@
-### Hi, I'm Liu Wenchang 👋
+### Hi, I'm Vince Liu 👋
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=Liu-Vince&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
 
 - 💼 Working in Chengdu as a programmer in the fintech sector, graduated from 🖋 [YNU](https://english.ynu.edu.cn) with a Bachelor's degree in Computer Science and Technology.
 - 🧐 Java / Python.
 - 💬 Ask me questions at [Stack Overflow](https://stackoverflow.com/users/13308895/vince)
-- ✍️ [Blogger](https://blog.csdn.net/lwcsjzz)
 - 🏊 Swimming / Snowboarding / Fishing 
 
 <!--
